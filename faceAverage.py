@@ -190,7 +190,7 @@ def warpTriangle(img1, img2, t1, t2) :
 
 if __name__ == '__main__' :
     
-    path = 'pics/men/'
+    path = 'pics/Women/'
     
     # Dimensions of output image
     w = 600;
