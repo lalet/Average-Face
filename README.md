@@ -1,6 +1,6 @@
 # Average-Face
 
-Average face of ministers of Kerala Government at present.
+Average face of ministers of Kerala Government sworn in on 25 May 2016.
 
 Images taken from [Kerala Govt.](http://www.niyamasabha.org/codes/members.htm)   
 Inspired from [Average Face of American Politician](http://www.bbc.com/future/story/20171018-this-is-the-face-of-the-average-american-politician$)   
