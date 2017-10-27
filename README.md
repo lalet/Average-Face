@@ -10,7 +10,7 @@ Average face of ministers of Kerala Government sworn in on 25 May 2016.
  
 ![Alt text](https://user-images.githubusercontent.com/4597920/32086209-8e545d8e-baa1-11e7-9ca1-aa6891ed6ab7.png)
 
-## Top 50 actos of Malayalam Cinema  
+## Top 50 actors of Malayalam Cinema  
  
 ![Alt text](https://user-images.githubusercontent.com/4597920/32122550-b5fa78d6-bb2e-11e7-8fa5-02a297483037.png)
  
